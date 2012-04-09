@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+void OnCollisionEnter(Collision ${1:col})
+{
+	throw new NotImplementedException("Collision hasn't been coded yet in " + this.ToString());
+	
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>en</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.cs</scope>
+</snippet>
