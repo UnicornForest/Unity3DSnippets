@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+IEnumerator ${1:name}(${2})
+{
+	while (${3:true})
+	{
+		throw new NotImplementedException("Coroutine $1 is not implemented in " + this.ToString());
+	}
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>co</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.cs</scope>
+	<description>
+		Create a coroutine.
+	</description>
+</snippet>
