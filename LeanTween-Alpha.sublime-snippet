@@ -1,0 +1,6 @@
+<snippet>
+	<description>LeanTween.alpha newOpacity</description>
+    <content><![CDATA[LeanTween.alpha(${1:go:gameObject}, ${2:to:float}, ${3:speed:float}, ${4:array (optional)} );]]></content>
+    <tabTrigger>LeanTween</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
