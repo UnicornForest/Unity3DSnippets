@@ -1,8 +1,8 @@
-# Unity3d Autocomplete for LeanTween
+# Unity3d Autocompletion for LeanTween
 #### for [Sublime Text 2](http://www.sublimetext.com/2)
 
 ## About
-This sublime Text 2 package adds a number of helpful snippets for the LeanTween animation engine
+This sublime Text 2 package adds a number of helpful snippets for the [LeanTween animation engine](http://u3d.as/content/dented-pixel/lean-tween/31i)
 
 ## Usage
 Provided are the most commonly used LeanTween methods (but there are many more that aren't shown to cut down on clutter)
