@@ -1,0 +1,6 @@
+<snippet>
+	<description>LeanTween.rotateLocal euler local</description>
+    <content><![CDATA[LeanTween.rotateLocal(${1:GameObject go}, ${2:Vector3 to}, ${3:float speed}, ${4:new object[]{}} );]]></content>
+    <tabTrigger>LeanTween</tabTrigger>
+    <scope>source.cs</scope>
+</snippet>
