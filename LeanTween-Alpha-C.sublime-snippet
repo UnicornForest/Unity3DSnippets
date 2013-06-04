@@ -1,6 +1,6 @@
 <snippet>
 	<description>LeanTween.alpha newOpacity</description>
-    <content><![CDATA[LeanTween.alpha(${1:GameObject go}, ${2:float to}, ${3:float speed}, ${4:array (optional)} );]]></content>
+    <content><![CDATA[LeanTween.alpha(${1:GameObject go}, ${2:float to}, ${3:float speed}, ${4:new object[]{}} );]]></content>
     <tabTrigger>LeanTween</tabTrigger>
     <scope>source.cs</scope>
 </snippet>
