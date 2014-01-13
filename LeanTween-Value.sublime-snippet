@@ -1,6 +1,6 @@
 <snippet>
 	<description>LeanTween.value call function with tween value</description>
-    <content><![CDATA[LeanTween.value(${1:gameObject:GameObject}, ${2:callback:Function}, ${3:speed:float}, ${4:array (optional)} );]]></content>
+    <content><![CDATA[LeanTween.value(${1:gameObject:GameObject}, ${2:callback:Function}, ${3:speed:float} );]]></content>
     <tabTrigger>LeanTween</tabTrigger>
     <scope>source.js</scope>
 </snippet>

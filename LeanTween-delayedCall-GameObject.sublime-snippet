@@ -1,6 +1,6 @@
 <snippet>
 	<description>LeanTween.delayedCall gameObject</description>
-    <content><![CDATA[LeanTween.delayedCall(${1:gameObject:GameObject}, ${2:delayTime:float}, ${3:callback:Function}, ${4:speed:float}, ${5:array (optional)} );]]></content>
+    <content><![CDATA[LeanTween.delayedCall(${1:gameObject:GameObject}, ${2:delayTime:float}, ${3:callback:Function}, ${4:speed:float} );]]></content>
     <tabTrigger>LeanTween</tabTrigger>
     <scope>source.js</scope>
 </snippet>
