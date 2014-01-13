@@ -1,0 +1,6 @@
+<snippet>
+	<description>LeanTween.move position:Vector3</description>
+    <content><![CDATA[LeanTween.move(${1:GameObject go}, ${2:Vector3 to}, ${3:float speed} );]]></content>
+    <tabTrigger>LeanTween</tabTrigger>
+    <scope>source.cs</scope>
+</snippet>

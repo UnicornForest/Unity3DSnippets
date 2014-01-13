@@ -1,0 +1,6 @@
+<snippet>
+	<description>LeanTween.rotateAround euler angle:float</description>
+    <content><![CDATA[LeanTween.rotateAround(${1:GameObject go}, ${2:Vector3 onAxis}, ${3:float degrees}, ${4:float speed} );]]></content>
+    <tabTrigger>LeanTween</tabTrigger>
+    <scope>source.cs</scope>
+</snippet>
